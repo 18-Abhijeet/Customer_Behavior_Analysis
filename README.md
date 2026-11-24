@@ -48,3 +48,17 @@ An end-to-end data analytics project examining retail customer purchasing patter
 # Dashboard
 <img width="1305" height="732" alt="Customer_Analysis_Dashboard" src="https://github.com/user-attachments/assets/885adc60-5997-462e-8f21-c16ccfd4c8a6" />
 
+## Key Results & Insights
+* **Customer Segmentation:** Out of 3,900 customers, **3,116** are *Loyal* (>10 previous purchases), **701** are *Returning* (2–10 purchases), and **83** are *New* (1 purchase).
+* **Revenue by Demographics:**
+  * Male customers generated **$157,890** in revenue compared to **$75,191** from female customers.
+  * **Young Adults** and **Middle-aged** cohorts represent the highest revenue-generating age groups.
+* **Subscription Impact:** Non-subscribers account for **$170,436** in total revenue (avg. spend `$59.87`), while subscribers contribute **$62,645** (avg. spend `$59.49`).
+* **Discount Sensitivity:** **839** customers utilized a discount while still spending above the overall average purchase amount. Items with the highest discount application rates include **Hats (50.0%)**, **Sneakers (49.66%)**, and **Coats (49.07%)**.
+* **Top-Rated Products:** **Gloves (3.86)**, **Sandals (3.84)**, and **Boots (3.82)** achieved the highest average customer review ratings.
+
+### Strategic Recommendations
+1. **Boost Subscriptions:** Promote exclusive member perks to convert repeat buyers into recurring subscribers.
+2. **Retention Campaigns:** Target the 701 *Returning* customers with loyalty incentives to transition them into the *Loyal* tier.
+3. **Optimize Discounting:** Re-evaluate promotional pricing on high-discount SKUs (Hats, Sneakers, Coats) to protect profit margins.
+4. **Targeted Marketing:** Focus ad spend on high-performing Young Adult and Middle-aged segments and highlight top-rated footwear and accessories.
