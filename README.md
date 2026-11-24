@@ -46,4 +46,5 @@ An end-to-end data analytics project examining retail customer purchasing patter
 * Synthesized insights and actionable business recommendations into a 10-slide presentation deck using Gamma (`Customer-Shopping-Behavior-Analysis.pptx`).
 
 # Dashboard
+<img width="1305" height="732" alt="Customer_Analysis_Dashboard" src="https://github.com/user-attachments/assets/885adc60-5997-462e-8f21-c16ccfd4c8a6" />
 
